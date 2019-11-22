@@ -1,0 +1,11 @@
+
+.card{
+    height: 10vh;
+    width: 5vw;
+    margin:1vw;
+    background-color: blanchedalmond;
+}
+.black{
+    background-color: black;
+    color: cornsilk;
+}
